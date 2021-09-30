@@ -11,10 +11,10 @@ specifiers:
   svelte-preprocess: ^4.9.5
   tslib: ^2.3.1
   typescript: ^4.4.3
-  vite: ^2.6.0
+  vite: ^2.6.1
 
 devDependencies:
-  '@sveltejs/vite-plugin-svelte': 1.0.0-next.26_svelte@3.43.0+vite@2.6.0
+  '@sveltejs/vite-plugin-svelte': 1.0.0-next.26_svelte@3.43.0+vite@2.6.1
   '@tsconfig/svelte': 2.0.1
   attractions: 3.4.0_015c92a5b1e4adeadb4ac515e07d00e0
   postcss: 8.3.8
@@ -24,7 +24,7 @@ devDependencies:
   svelte-preprocess: 4.9.5_478b4179f89045d8f2b144f9ae2a5697
   tslib: 2.3.1
   typescript: 4.4.3
-  vite: 2.6.0_sass@1.42.1
+  vite: 2.6.1_sass@1.42.1
 
 packages:
 
@@ -57,7 +57,7 @@ packages:
       picomatch: 2.3.0
     dev: true
 
-  /@sveltejs/vite-plugin-svelte/1.0.0-next.26_svelte@3.43.0+vite@2.6.0:
+  /@sveltejs/vite-plugin-svelte/1.0.0-next.26_svelte@3.43.0+vite@2.6.1:
     resolution: {integrity: sha512-+Rx3IBa4disskQmr+0/Rh+NYavkM6Vi8BnkTGjKnblawysw4INXkq2WEQBp8luGpUZEkjwczdL9Z9Q2hISvIeA==}
     engines: {node: ^12.20 || ^14.13.1 || >= 16}
     peerDependencies:
@@ -75,7 +75,7 @@ packages:
       require-relative: 0.8.7
       svelte: 3.43.0
       svelte-hmr: 0.14.7_svelte@3.43.0
-      vite: 2.6.0_sass@1.42.1
+      vite: 2.6.1_sass@1.42.1
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -829,8 +829,8 @@ packages:
     hasBin: true
     dev: true
 
-  /vite/2.6.0_sass@1.42.1:
-    resolution: {integrity: sha512-JNUJ0D/Cx4+xLD0BVy+nnUn2CECKMTR9eUKsvw/pfkG+hhVJFzFyCL5PK1eYV1ehNDIgr8Zl3jWjvwLwZWstLA==}
+  /vite/2.6.1_sass@1.42.1:
+    resolution: {integrity: sha512-rYd+iGMQ+AytWfYBDhIz2upeiseuqrAMwmApJDR40wu12C9MqzemX449nM3FN1Z/FFSV+fMTFz7eMenngVSogA==}
     engines: {node: '>=12.2.0'}
     hasBin: true
     peerDependencies:
